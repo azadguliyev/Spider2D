@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: a1a2ab49e8adf3d4c8fb0fa041c78da2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 460
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ebfb314c4a8954aa660620d1641990
+      internalID: 23691806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 464
+        width: 121
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a911e4120d774b46bbb4244b0afcf6d
+      internalID: -1114476649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 487
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ee3e0edec4334085d10415f43d508
+      internalID: -991927926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 487
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ff2ae882df944ba3fd841fefacefd
+      internalID: -647086885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 487
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaab28354ff0a74fb92a59c52a44d32
+      internalID: -813962503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 487
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c324cd1ac39494da2c799115e1585e
+      internalID: -1077787299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 487
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94d6a465682934ba04bfd80b400900
+      internalID: -865722356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 487
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad769c852b07e4ea1a19cd2b005b15
+      internalID: 304306904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 405
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458d494c231eb44eaf396810c48a105
+      internalID: 1359752673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 405
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead67d56a6448b04d9d6ad17d56b902a
+      internalID: 27331584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c58409fb2ce6b0429181950663f5c40
+      internalID: 1577750242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 405
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4c3a8d1362f044a59d477c1f7b63f
+      internalID: -1237269964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 451
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e386487e46508439395c71d3035d44
+      internalID: 1503979893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 405
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fbda500399da94680e6a17c5be84a7
+      internalID: -533107677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 405
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7d63e1c9e1fcd45833a94d617fbc14
+      internalID: -1557733732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 408
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f680f6dccaa046b8b015e5eb7cfaa
+      internalID: 2040127127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 407
+        width: 4
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbddaf96ba194d248828fa536e565128
+      internalID: 710568598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 410
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dac9d837f211c4a891943950a20146
+      internalID: 303184097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 438
+        width: 42
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084ec00252fd0294d8f2d63851a2e465
+      internalID: -192225175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 405
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ef9a9743b2d94e91d2841d9995e60
+      internalID: -2126385869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 405
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b7f9104d94e0c468f7d83f682cf070
+      internalID: -724386678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 415
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f16a2057d5c6e74b87ccb78de2770a8
+      internalID: 1922490956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 344
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de53b6241e6654f9d51e078eb3ebd7
+      internalID: 464377104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 354
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036aeeae2df746c4da4ea42410b0477c
+      internalID: -1882472662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 350
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d5ba1fa7ad5d49a74f53c0ebd2b27
+      internalID: -339810031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 352
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e12dffa7f08064e9643b56379b9f1d
+      internalID: 1535775838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 348
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb2084a6df9f6439089f82897a18f8
+      internalID: 1913185014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 347
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4555b6aa3cfa674ca6f1dbad5bab149
+      internalID: -462128668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 344
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b94da7cc638a5429eee6126ca53ac7
+      internalID: 1303584691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 344
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e244b7d183f5b614298533b44dd0f3a8
+      internalID: -1259390496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 350
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4be89efaa79d43b0d17a3ca8acb8f
+      internalID: 1191098896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 355
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb631f2aa0c024db8ea9a97983219a
+      internalID: -1893507186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 347
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5062e5bcd0b968b4b835b4f8c3118949
+      internalID: -1278522537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 285
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6417541cbec824493cd8c8034f5ea4
+      internalID: 2013159909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 285
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbec1c3a5615104da4a1ade01e72c8c
+      internalID: -778258080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 285
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c844271c58701dc4faa3ba706d9aa5b0
+      internalID: -809381324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 285
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db69561995d31bd4ea88e5ca74d5218e
+      internalID: 1409672017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_37
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 285
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ef82d48c0f894fa0b59bd71b2dab9
+      internalID: 1653750193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 284
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63adea51fc2654bb4dcc0f329b8e5a
+      internalID: -817163895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 285
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3030372ae08b4b40b4ec9d1ec87e4af
+      internalID: 1753153574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 285
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7cc1e85cbb044689d8cc0e819faf0
+      internalID: -997340591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 283
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee9c7b2b3a97943852d3655b2bf7cf
+      internalID: 1287813210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 279
+        width: 5
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6916167d5b6b42c44a61d52ff16daa06
+      internalID: 1332130320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 283
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9e46dd1223254ab174a2e0a8e6bd3
+      internalID: 1459235653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 212
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365c5778256265469d79a0eee0ea1bc
+      internalID: -24976807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 212
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb9b4ef5a4a7746bf9aa1a7c163dd1
+      internalID: 184676692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 211
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f88c6e92ff4bc64cb5b1aa12fb83c4d
+      internalID: 1298297268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 211
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf53c3942b6514db4ba4266198daf7
+      internalID: -911020131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 211
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7747558f8cf85c40a2147a6a9b7aa97
+      internalID: -1853858806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 211
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df7cb7f83a80747970a6a60740f03f
+      internalID: 974946894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_50
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 211
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd9751ef8064e48aa3c34e5abff0a0
+      internalID: -1461331038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 211
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74bda90ce4913342bea18a986167b19
+      internalID: -218344436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_52
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 211
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a436adcc3b8994ba0572f233f75050
+      internalID: 538523707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 211
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7b355d07adef48b43ee5b238defc6
+      internalID: -1050487834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_54
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 210
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c624bbdcd3bf814d8e3e530ceb4de40
+      internalID: 790958706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 155
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1200c51665bced14492806cd7f9bc6b6
+      internalID: -1332428968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 175
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11dab403fdb59941a2ec528212a5ace
+      internalID: -147849854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 155
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b8e8ec45469f40804eeb6269777c5
+      internalID: -26276139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 175
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13fd3e0a9ea4840b0496f04f540709
+      internalID: 9087627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 155
+        width: 122
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad33953bcac39d479a94550068ba807
+      internalID: -1259370661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 174
+        width: 84
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d768d84c18dbc5d4db8249abb24b32fb
+      internalID: -1879468118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6113459bfb6ae4ca28f8044fa233b1
+      internalID: 1066938997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 94
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea0b2e72edc98b4194db9f21152b8da
+      internalID: 2034758331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 94
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaaddb9d1297394080b612725480a9f
+      internalID: 1212985164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 94
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3470db5d259e44958fb033df4fe45
+      internalID: -147612114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 94
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e504aaf05ea1409e4730bcbf1f5c4
+      internalID: 1698934596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 93
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0991e5004d3944b39b60c50f3b289
+      internalID: 1793331942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ebea8bf3452f4fbd7de8fc60c4129
+      internalID: 1128185291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210ed1333536b542ac1b19e794e6642
+      internalID: 1188843361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_69
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0999415490fc8574ebf24f9f79d9fd31
+      internalID: 237068904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437ffa795e445e144afa490dec912df5
+      internalID: -550468837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_71
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737b1fbfe48e69479baab18a56c3b5e
+      internalID: 750160420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_72
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583fc11f1703004c91d9139999c08b4
+      internalID: -29294186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_73
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27b6ce6dd91f941aae5acb0aa891d3
+      internalID: -2099031269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528a001d44716724c91127f2c4a9c4c0
+      internalID: -732804075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_75
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acaad84d3c518e4a97282ac439c27c5
+      internalID: 137576603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b8a9c76ea58bd469e240dee673a82c
+      internalID: 1852058305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_77
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75786688ed574459bb364b8b9e6561
+      internalID: -514532167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339035407a45b243bc4c6eac36dfbe3
+      internalID: -1995547912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ae28c6642bfe4c93277044cae9207
+      internalID: -1258769708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3cf2e5c104dc74fa7b60312450690b
+      internalID: 498256364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73598555cb45b134fb8a16724bc03087
+      internalID: -1992832880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 41
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522f8d9883de914eb15286037244567
+      internalID: -1952248486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b0c94c90c19b4db5f84f1116cdfc8
+      internalID: 1099710638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59110fb3f466990498d955db7233a733
+      internalID: 1999924132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b83c1774e6334490c44a73c226325
+      internalID: 1317984648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b52609ef24f6746a4a762512c2bdb0
+      internalID: 1076808656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07120f5f027821349957e7600300fbd7
+      internalID: 220545157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7384282ff31184f4392a3e0e43096b72
+      internalID: -675647041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bffff1f971b6047afb8ac5086fd5fe
+      internalID: -1623801167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec6c9e1c793f10488a9d803785142be
+      internalID: -971131845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_91
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbeecfd31b1ba488cb0ec6b5c76afd
+      internalID: 1678061187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76e4ecabf962c4aa1ead2b3f262c09
+      internalID: -137498949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb410e18ed62d4db48dc1101289d45
+      internalID: -1927270579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_94
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 9
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8089ba2b7f7153145bccbd47dd94161f
+      internalID: 1777102387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_95
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 9
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981cb96ec904284facfdd4a3cbbb127
+      internalID: -713964636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_96
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 9
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8a15aeefda9704491070115fcf7f7e
+      internalID: 1412071547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_97
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 9
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91c89018a356840b0ebe4d91f7dd3c
+      internalID: -1225386683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_98
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 9
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7931043a8db5d4c40835a77f9eb62652
+      internalID: -1249738750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9eaa55f39724498652668c46feffa
+      internalID: 1790190180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_100
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47c86ae1ff7044b8ad95f49b389402
+      internalID: 1973139359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c9b79a9f62f547ab08fef7ef40f65
+      internalID: 1822900367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_102
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5174ed41d5db45a8d10c51621ac3e
+      internalID: 1905116738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59973a4ee26b0240b5009a5cba3fff3
+      internalID: 1769829923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed582d97372bec4fb1c03ebd9e19c6f
+      internalID: 762889719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_105
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04d0da492fa0a4c9a8d2a86a88b937
+      internalID: -1398862567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734d525c32abb84bb0d2454579929c9
+      internalID: -123552877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eef990bc6501043a3699e4223bb9fb
+      internalID: -1792292498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_108
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbbab172ceeb3642a3564395702ae43
+      internalID: -907990872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4af7b6ab1865240a2d8adb4d52d4ad
+      internalID: 701086571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a096e683facc4cb73b4cd3c450afb
+      internalID: 1262329813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_111
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4086f070168f71448a6f261a2334008
+      internalID: -2056410303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_112
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975b816f1f8b4c4d90723f15ff926af
+      internalID: -1437223205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_113
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073c3df531d54b4e82e6bb50de77aa4
+      internalID: -864881289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_114
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a8bf590f2a77409d34175d44fd5bc
+      internalID: -1253330053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5eed2a8f2c254ca6790824cdf253f
+      internalID: -768029263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169b2053fd8cd445a4bc01eb9b30c81
+      internalID: -318538810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_117
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb9dd4b32a00343a5913f07af26e08
+      internalID: -1328524006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_118
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9c38ebd70a68449af089257e34c32
+      internalID: -369208809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_119
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefedc06456c4845b7f12a962802a17
+      internalID: 417159579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_120
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45129064f8a872c4aa7a9758f2117957
+      internalID: -1257850482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eacb734e08e9b4684668bb082b5ab8
+      internalID: 1726284081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_122
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6e4e984361a34f9779309209f1a59
+      internalID: -915329089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_123
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f7e4dac684594684df2b7d2bcb7d9
+      internalID: 315366242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_124
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf97f72af86fa42b9f372f495cbdf5
+      internalID: -1848429816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Marvel Comics Customs - Spider-Man_125
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22636704bcb941b4cb3e1f67de5404b7
+      internalID: -365836576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Marvel Comics Customs - Spider-Man_0: 23691806
+      Custom Edited - Marvel Comics Customs - Spider-Man_1: -1114476649
+      Custom Edited - Marvel Comics Customs - Spider-Man_10: 1577750242
+      Custom Edited - Marvel Comics Customs - Spider-Man_100: 1973139359
+      Custom Edited - Marvel Comics Customs - Spider-Man_101: 1822900367
+      Custom Edited - Marvel Comics Customs - Spider-Man_102: 1905116738
+      Custom Edited - Marvel Comics Customs - Spider-Man_103: 1769829923
+      Custom Edited - Marvel Comics Customs - Spider-Man_104: 762889719
+      Custom Edited - Marvel Comics Customs - Spider-Man_105: -1398862567
+      Custom Edited - Marvel Comics Customs - Spider-Man_106: -123552877
+      Custom Edited - Marvel Comics Customs - Spider-Man_107: -1792292498
+      Custom Edited - Marvel Comics Customs - Spider-Man_108: -907990872
+      Custom Edited - Marvel Comics Customs - Spider-Man_109: 701086571
+      Custom Edited - Marvel Comics Customs - Spider-Man_11: -1237269964
+      Custom Edited - Marvel Comics Customs - Spider-Man_110: 1262329813
+      Custom Edited - Marvel Comics Customs - Spider-Man_111: -2056410303
+      Custom Edited - Marvel Comics Customs - Spider-Man_112: -1437223205
+      Custom Edited - Marvel Comics Customs - Spider-Man_113: -864881289
+      Custom Edited - Marvel Comics Customs - Spider-Man_114: -1253330053
+      Custom Edited - Marvel Comics Customs - Spider-Man_115: -768029263
+      Custom Edited - Marvel Comics Customs - Spider-Man_116: -318538810
+      Custom Edited - Marvel Comics Customs - Spider-Man_117: -1328524006
+      Custom Edited - Marvel Comics Customs - Spider-Man_118: -369208809
+      Custom Edited - Marvel Comics Customs - Spider-Man_119: 417159579
+      Custom Edited - Marvel Comics Customs - Spider-Man_12: 1503979893
+      Custom Edited - Marvel Comics Customs - Spider-Man_120: -1257850482
+      Custom Edited - Marvel Comics Customs - Spider-Man_121: 1726284081
+      Custom Edited - Marvel Comics Customs - Spider-Man_122: -915329089
+      Custom Edited - Marvel Comics Customs - Spider-Man_123: 315366242
+      Custom Edited - Marvel Comics Customs - Spider-Man_124: -1848429816
+      Custom Edited - Marvel Comics Customs - Spider-Man_125: -365836576
+      Custom Edited - Marvel Comics Customs - Spider-Man_13: -533107677
+      Custom Edited - Marvel Comics Customs - Spider-Man_14: -1557733732
+      Custom Edited - Marvel Comics Customs - Spider-Man_15: 2040127127
+      Custom Edited - Marvel Comics Customs - Spider-Man_16: 710568598
+      Custom Edited - Marvel Comics Customs - Spider-Man_17: 303184097
+      Custom Edited - Marvel Comics Customs - Spider-Man_18: -192225175
+      Custom Edited - Marvel Comics Customs - Spider-Man_19: -2126385869
+      Custom Edited - Marvel Comics Customs - Spider-Man_2: -991927926
+      Custom Edited - Marvel Comics Customs - Spider-Man_20: -724386678
+      Custom Edited - Marvel Comics Customs - Spider-Man_21: 1922490956
+      Custom Edited - Marvel Comics Customs - Spider-Man_22: 464377104
+      Custom Edited - Marvel Comics Customs - Spider-Man_23: -1882472662
+      Custom Edited - Marvel Comics Customs - Spider-Man_24: -339810031
+      Custom Edited - Marvel Comics Customs - Spider-Man_25: 1535775838
+      Custom Edited - Marvel Comics Customs - Spider-Man_26: 1913185014
+      Custom Edited - Marvel Comics Customs - Spider-Man_27: -462128668
+      Custom Edited - Marvel Comics Customs - Spider-Man_28: 1303584691
+      Custom Edited - Marvel Comics Customs - Spider-Man_29: -1259390496
+      Custom Edited - Marvel Comics Customs - Spider-Man_3: -647086885
+      Custom Edited - Marvel Comics Customs - Spider-Man_30: 1191098896
+      Custom Edited - Marvel Comics Customs - Spider-Man_31: -1893507186
+      Custom Edited - Marvel Comics Customs - Spider-Man_32: -1278522537
+      Custom Edited - Marvel Comics Customs - Spider-Man_33: 2013159909
+      Custom Edited - Marvel Comics Customs - Spider-Man_34: -778258080
+      Custom Edited - Marvel Comics Customs - Spider-Man_35: -809381324
+      Custom Edited - Marvel Comics Customs - Spider-Man_36: 1409672017
+      Custom Edited - Marvel Comics Customs - Spider-Man_37: 1653750193
+      Custom Edited - Marvel Comics Customs - Spider-Man_38: -817163895
+      Custom Edited - Marvel Comics Customs - Spider-Man_39: 1753153574
+      Custom Edited - Marvel Comics Customs - Spider-Man_4: -813962503
+      Custom Edited - Marvel Comics Customs - Spider-Man_40: -997340591
+      Custom Edited - Marvel Comics Customs - Spider-Man_41: 1287813210
+      Custom Edited - Marvel Comics Customs - Spider-Man_42: 1332130320
+      Custom Edited - Marvel Comics Customs - Spider-Man_43: 1459235653
+      Custom Edited - Marvel Comics Customs - Spider-Man_44: -24976807
+      Custom Edited - Marvel Comics Customs - Spider-Man_45: 184676692
+      Custom Edited - Marvel Comics Customs - Spider-Man_46: 1298297268
+      Custom Edited - Marvel Comics Customs - Spider-Man_47: -911020131
+      Custom Edited - Marvel Comics Customs - Spider-Man_48: -1853858806
+      Custom Edited - Marvel Comics Customs - Spider-Man_49: 974946894
+      Custom Edited - Marvel Comics Customs - Spider-Man_5: -1077787299
+      Custom Edited - Marvel Comics Customs - Spider-Man_50: -1461331038
+      Custom Edited - Marvel Comics Customs - Spider-Man_51: -218344436
+      Custom Edited - Marvel Comics Customs - Spider-Man_52: 538523707
+      Custom Edited - Marvel Comics Customs - Spider-Man_53: -1050487834
+      Custom Edited - Marvel Comics Customs - Spider-Man_54: 790958706
+      Custom Edited - Marvel Comics Customs - Spider-Man_55: -1332428968
+      Custom Edited - Marvel Comics Customs - Spider-Man_56: -147849854
+      Custom Edited - Marvel Comics Customs - Spider-Man_57: -26276139
+      Custom Edited - Marvel Comics Customs - Spider-Man_58: 9087627
+      Custom Edited - Marvel Comics Customs - Spider-Man_59: -1259370661
+      Custom Edited - Marvel Comics Customs - Spider-Man_6: -865722356
+      Custom Edited - Marvel Comics Customs - Spider-Man_60: -1879468118
+      Custom Edited - Marvel Comics Customs - Spider-Man_61: 1066938997
+      Custom Edited - Marvel Comics Customs - Spider-Man_62: 2034758331
+      Custom Edited - Marvel Comics Customs - Spider-Man_63: 1212985164
+      Custom Edited - Marvel Comics Customs - Spider-Man_64: -147612114
+      Custom Edited - Marvel Comics Customs - Spider-Man_65: 1698934596
+      Custom Edited - Marvel Comics Customs - Spider-Man_66: 1793331942
+      Custom Edited - Marvel Comics Customs - Spider-Man_67: 1128185291
+      Custom Edited - Marvel Comics Customs - Spider-Man_68: 1188843361
+      Custom Edited - Marvel Comics Customs - Spider-Man_69: 237068904
+      Custom Edited - Marvel Comics Customs - Spider-Man_7: 304306904
+      Custom Edited - Marvel Comics Customs - Spider-Man_70: -550468837
+      Custom Edited - Marvel Comics Customs - Spider-Man_71: 750160420
+      Custom Edited - Marvel Comics Customs - Spider-Man_72: -29294186
+      Custom Edited - Marvel Comics Customs - Spider-Man_73: -2099031269
+      Custom Edited - Marvel Comics Customs - Spider-Man_74: -732804075
+      Custom Edited - Marvel Comics Customs - Spider-Man_75: 137576603
+      Custom Edited - Marvel Comics Customs - Spider-Man_76: 1852058305
+      Custom Edited - Marvel Comics Customs - Spider-Man_77: -514532167
+      Custom Edited - Marvel Comics Customs - Spider-Man_78: -1995547912
+      Custom Edited - Marvel Comics Customs - Spider-Man_79: -1258769708
+      Custom Edited - Marvel Comics Customs - Spider-Man_8: 1359752673
+      Custom Edited - Marvel Comics Customs - Spider-Man_80: 498256364
+      Custom Edited - Marvel Comics Customs - Spider-Man_81: -1992832880
+      Custom Edited - Marvel Comics Customs - Spider-Man_82: -1952248486
+      Custom Edited - Marvel Comics Customs - Spider-Man_83: 1099710638
+      Custom Edited - Marvel Comics Customs - Spider-Man_84: 1999924132
+      Custom Edited - Marvel Comics Customs - Spider-Man_85: 1317984648
+      Custom Edited - Marvel Comics Customs - Spider-Man_86: 1076808656
+      Custom Edited - Marvel Comics Customs - Spider-Man_87: 220545157
+      Custom Edited - Marvel Comics Customs - Spider-Man_88: -675647041
+      Custom Edited - Marvel Comics Customs - Spider-Man_89: -1623801167
+      Custom Edited - Marvel Comics Customs - Spider-Man_9: 27331584
+      Custom Edited - Marvel Comics Customs - Spider-Man_90: -971131845
+      Custom Edited - Marvel Comics Customs - Spider-Man_91: 1678061187
+      Custom Edited - Marvel Comics Customs - Spider-Man_92: -137498949
+      Custom Edited - Marvel Comics Customs - Spider-Man_93: -1927270579
+      Custom Edited - Marvel Comics Customs - Spider-Man_94: 1777102387
+      Custom Edited - Marvel Comics Customs - Spider-Man_95: -713964636
+      Custom Edited - Marvel Comics Customs - Spider-Man_96: 1412071547
+      Custom Edited - Marvel Comics Customs - Spider-Man_97: -1225386683
+      Custom Edited - Marvel Comics Customs - Spider-Man_98: -1249738750
+      Custom Edited - Marvel Comics Customs - Spider-Man_99: 1790190180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
